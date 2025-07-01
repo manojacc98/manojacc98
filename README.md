@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Manoj Kumar R</h1>
 <h3 align="center">A Backend-Focused Full Stack Developer</h3>
 
+![Profile views](https://komarev.com/ghpvc/?username=manojacc98&label=Profile%20views&color=0e75b6&style=flat)
+
+
 - 🔭 I’m currently working on **ERP and E-commerce applications**
 
 - 🌱 I’m currently learning **Next.js & Cloudflare R2**
